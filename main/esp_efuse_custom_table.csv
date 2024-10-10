@@ -1,0 +1,3 @@
+EP_DATA,                                 EFUSE_BLK3,    56,  26,    EP DATA
+EP_DATA.SERIAL_NO,                       EFUSE_BLK3,    56,  20,    EP SERIAL 
+EP_DATA.RESERVED,                        EFUSE_BLK3,    76,  6,     RESERVED
